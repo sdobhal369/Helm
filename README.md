@@ -1,2 +1,3 @@
 # Helm
-Helm files
+Helm chart
+Deployed it in Kubernetes Cluster
